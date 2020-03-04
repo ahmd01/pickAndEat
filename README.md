@@ -13,6 +13,9 @@ npm install
 
 npm start
 
+### Technologies 
+React, Yelp API
+
 ### Pictures 
 
 ![pick1](https://user-images.githubusercontent.com/24450230/75837105-d8f81700-5d91-11ea-8c48-61bfeade3046.jpg)
